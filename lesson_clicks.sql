@@ -3,7 +3,7 @@ WITH lesson_cnt AS (
   SELECT
     user_id,
     COUNT(lesson_id) cnt
-  FROM `codeit.enter_lesson`
+  FROM `enter_lesson`
   WHERE
     DATE(event_time_seoul) BETWEEN '2023-07-01' AND '2023-12-31'
   GROUP BY user_id
@@ -22,7 +22,7 @@ WITH lesson_cnt AS (
 ,all_lesson_users AS (
   SELECT
     COUNT(DISTINCT user_id) cnt
-  FROM `codeit.enter_lesson`
+  FROM `enter_lesson`
   WHERE
     DATE(event_time_seoul) BETWEEN '2023-07-01' AND '2023-12-31'
 )
