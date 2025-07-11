@@ -21,5 +21,5 @@
 
 ## active_log.sql
 - 무료 체험 7일간 유저 이탈 n일차
-  <img width="605" height="375" alt="무료체험 7일간 이탈 일자" src="https://github.com/user-attachments/assets/5663357a-d1b3-4ce3-95bd-62027af7ab3a" />
+<img width="605" height="375" alt="무료체험 7일간 이탈 일자" src="https://github.com/user-attachments/assets/5663357a-d1b3-4ce3-95bd-62027af7ab3a" />
   
