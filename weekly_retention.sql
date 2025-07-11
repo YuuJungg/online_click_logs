@@ -6,7 +6,7 @@ WITH base AS (
       user_id,
       event_type,
       event_time_seoul,
-  FROM `codeit.time_id_event_all`
+  FROM `time_id_event_all`
   WHERE
     event_time_seoul BETWEEN '2023-07-01' AND '2023-12-31'
 )
