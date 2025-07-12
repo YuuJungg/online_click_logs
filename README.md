@@ -3,7 +3,7 @@ https://public.tableau.com/views/__17523090139490/sheet7?:language=ko-KR&:sid=&:
 
 ---
 
-# BigQuery SQL 쿼리문
+# BigQuery SQL 쿼리문 파일 별 결과 예시
 
 ## main_click_event_funnel.sql
 - 메인 클릭 이벤트 퍼널
