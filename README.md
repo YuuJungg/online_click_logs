@@ -1,3 +1,8 @@
+# Tableau 링크
+https://public.tableau.com/views/RetentionDashboard/Dashboard1
+
+---
+
 # BigQuery SQL 쿼리문
 
 ## main_click_event_funnel.sql
