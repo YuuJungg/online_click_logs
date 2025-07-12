@@ -6,7 +6,7 @@
   
 ---
 
-## weekly_retention.sql
+## weekly_retention.sql, after_signup_retention.sql
 - 위클리 리텐션
   <img width="892" height="265" alt="위클리 리텐션" src="https://github.com/user-attachments/assets/3f3c11fd-7452-4640-9165-f6a16b46f602" />
 
