@@ -1,5 +1,5 @@
 # Tableau 링크
-https://public.tableau.com/views/RetentionDashboard/Dashboard1
+https://public.tableau.com/views/__17523090139490/sheet7?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
